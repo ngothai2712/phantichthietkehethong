@@ -6,10 +6,10 @@ Hệ thống sắp xếp lịch làm việc cho nhân sự của quán cà phê 
 ### Bài toán mô phỏng: 
 Trong một quán cà phê có tổng cộng tất cả 6 nhân viên và 2 bạn quản lý. Mỗi một ngày có 3 ca làm việc: Sáng, chiều và tối. Quán không nghỉ ngày nào trong tuần.
 Biết rằng, mỗi một bạn nhân viên phải đăng ký tối thiểu 3 buổi làm việc/tuần, mỗi ca thì cần 2-3 bạn nhân viên và ca nào cũng phải có 1 quản lý. Nhân viên không được phép làm quá 2 ca/ngày. Trong trường hợp có một ca không có nhân viên hoặc quản lý nào chọn thì hệ thống sẽ tự chỉ định theo lượng đăng ký.
-a. Tạo form đăng ký lịch làm việc cho các bạn nhân viên và quản lý theo tuần. Hãy sắp xếp lịch sao cho cân đối nhất có thể.
-b. Trong một ca cần có ít nhất một bạn làm phục vụ bàn, hãy sắp xếp lịch để cho tất cả 6 bạn nhân viên đều phải làm phục vụ với số lượng ca cân bằng nhất có thể.
-c. Ca chiều thường là ca có lượng khách đông nhất, ca có lượng khách ít nhất là ca sáng, hãy tìm cách phân bố lịch để đáp ứng được với công việc.
-d. Một bạn nhân viên báo ốm trong tuần, hãy sắp xếp lịch trực ca để không ảnh hưởng đến công việc.
+1. Tạo form đăng ký lịch làm việc cho các bạn nhân viên và quản lý theo tuần. Hãy sắp xếp lịch sao cho cân đối nhất có thể.
+2. Trong một ca cần có ít nhất một bạn làm phục vụ bàn, hãy sắp xếp lịch để cho tất cả 6 bạn nhân viên đều phải làm phục vụ với số lượng ca cân bằng nhất có thể.
+3. Ca chiều thường là ca có lượng khách đông nhất, ca có lượng khách ít nhất là ca sáng, hãy tìm cách phân bố lịch để đáp ứng được với công việc.
+4. Một bạn nhân viên báo ốm trong tuần, hãy sắp xếp lịch trực ca để không ảnh hưởng đến công việc.
 
 ## II. Thông tin chung về hệ thống
 ### Chức năng chung:
